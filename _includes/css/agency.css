@@ -64,6 +64,8 @@ h6 {
 }
 
 .centered {
+    margin-left: auto;
+    margin-right: auto;
     text-align: center;
 }
 
@@ -72,7 +74,7 @@ h6 {
 }
 
 .img-gbi {
-    width: 40vh;
+    width: 300px;
     height:auto;
 }
 
@@ -655,6 +657,11 @@ section h3.section-subheading {
     }
 }
 
+
+#team {
+    padding-bottom: 30px;
+}
+
 .team-member {
     margin-bottom: 50px;
     text-align: center;
@@ -676,7 +683,7 @@ section h3.section-subheading {
 }
 
 aside.clients img {
-    margin: 50px auto;
+    margin: 30px auto;
 }
 
 section#contact {
