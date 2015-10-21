@@ -293,7 +293,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url(../img/header-bg.jpg);
+    background-image: url(../img/header/frame1.png);
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -660,6 +660,12 @@ section h3.section-subheading {
 
 #team {
     padding-bottom: 30px;
+}
+
+#contact {
+    padding-bottom: 0px;
+    padding-top: 50px;
+
 }
 
 .team-member {
