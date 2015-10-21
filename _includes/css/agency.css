@@ -88,6 +88,7 @@ h6 {
     height:100px;
 }
 
+
 .bg-light-gray {
     background-color: #f7f7f7;
 }
@@ -901,3 +902,4 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #{{ site.color.primary }};
 }
+
