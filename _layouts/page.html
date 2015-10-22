@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+
+<html>
+    {% include head.html %}
+
+    <body class="index">
+        {% include navigation.html %}
+
+    <div class="page-contents">
+        <article class="post">
+
+        <h2> {{ page.title}} </h2>
+
+<!--            <img src="{{site.baseurl}}img/portfolio/{{ page.img }}" class="img-responsive img-centered img-page" alt="{{ alt }}"> -->
+
+            <div class="entry">
+            {{ content }}
+            </div>
+
+        </article>
+    </div>
+
+
+        {% include footer.html %}
+        {% include js.html %}
+    </body>
+</html>
