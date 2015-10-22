@@ -1,5 +1,5 @@
 url: https://vveitas.github.io
-baseurl: /formulatingamess/
+baseurl: /formulatingamess
 
 # Site settings
 title: formulatingamess.net
@@ -17,6 +17,9 @@ people:
 - name: Viktoras Veitas
   pic: 1
   position: Lead Formulator
+  company: 
+    title: The Global Brain Institute
+    url: http://www.globalbraininstitute.org
   social:
     - title: twitter
       url: https://twitter.com/vveitas
@@ -26,6 +29,9 @@ people:
 - name: Jon Echanove
   pic: 2
   position: Trainer and Facilitator
+  company: 
+    title: Positive Development
+    url: http://www.positivedevelopment.be
   social:
     - title: twitter
       url: https://twitter.com/jonechanove
@@ -35,6 +41,9 @@ people:
 - name: Rasa Morkunaite
   pic: 3
   position: Relations Manager
+  company: 
+    title: Economic Research Centre
+    url: http://www.erc.lt
   social:
     - title: linkedin
       url: https://www.linkedin.com/pub/rasa-morkunaite/0/252/242
