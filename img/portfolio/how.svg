@@ -7,6 +7,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="744.09448819"
@@ -14,10 +15,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="what.svg"
-   inkscape:export-filename="/media/data/vveitas/repos/agency-jekyll-theme-copy/img/portfolio/what.png"
-   inkscape:export-xdpi="600"
-   inkscape:export-ydpi="600">
+   sodipodi:docname="how.svg"
+   inkscape:export-filename="/media/data/vveitas/repos/formulatingamess/img/portfolio/how.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -28,16 +29,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="18.586697"
+     inkscape:cx="210.60025"
      inkscape:cy="618.84874"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1873"
-     inkscape:window-height="1056"
-     inkscape:window-x="1127"
-     inkscape:window-y="333"
-     inkscape:window-maximized="1" />
+     inkscape:window-width="888"
+     inkscape:window-height="819"
+     inkscape:window-x="178"
+     inkscape:window-y="269"
+     inkscape:window-maximized="0" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -57,14 +58,14 @@
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="155.8876"
-       y="513.49487"
+       x="148.81653"
+       y="494.30197"
        id="text2985"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan2987"
-         x="155.8876"
-         y="513.49487"
+         x="148.81653"
+         y="494.30197"
          style="font-size:144px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Georgia;-inkscape-font-specification:Georgia">How?</tspan></text>
     <path
        sodipodi:type="arc"
@@ -79,5 +80,12 @@
        sodipodi:end="6.2471996"
        sodipodi:open="true"
        transform="matrix(1.0203186,0,0,1.0612226,-26.263716,-77.736544)" />
+    <image
+       y="521.7099"
+       x="279.49005"
+       id="image3047"
+       xlink:href="file:///media/data/vveitas/repos/formulatingamess/img/portfolio/hand_curser_rounded-512.png"
+       height="103.68"
+       width="103.68" />
   </g>
 </svg>

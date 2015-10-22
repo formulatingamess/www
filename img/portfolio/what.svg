@@ -7,6 +7,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="744.09448819"
@@ -15,9 +16,9 @@
    version="1.1"
    inkscape:version="0.48.4 r9939"
    sodipodi:docname="what.svg"
-   inkscape:export-filename="/media/data/vveitas/repos/agency-jekyll-theme-copy/img/portfolio/what.png"
-   inkscape:export-xdpi="600"
-   inkscape:export-ydpi="600">
+   inkscape:export-filename="/media/data/vveitas/repos/formulatingamess/img/portfolio/what.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -57,15 +58,15 @@
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="155.8876"
-       y="513.49487"
+       x="127.60333"
+       y="503.39334"
        id="text2985"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan2987"
-         x="155.8876"
-         y="513.49487"
-         style="font-size:144px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Georgia;-inkscape-font-specification:Georgia">How?</tspan></text>
+         x="127.60333"
+         y="503.39334"
+         style="font-size:144px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Georgia;-inkscape-font-specification:Georgia">What?</tspan></text>
     <path
        sodipodi:type="arc"
        style="fill:none;stroke:#000000;stroke-width:21.38968277;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:0.57077631;stroke-dasharray:none;stroke-dashoffset:0"
@@ -79,5 +80,12 @@
        sodipodi:end="6.2471996"
        sodipodi:open="true"
        transform="matrix(1.0203186,0,0,1.0612226,-26.263716,-77.736544)" />
+    <image
+       y="523.73016"
+       x="282.52051"
+       id="image3047"
+       xlink:href="file:///media/data/vveitas/repos/formulatingamess/img/portfolio/hand_curser_rounded-512.png"
+       height="103.68"
+       width="103.68" />
   </g>
 </svg>
