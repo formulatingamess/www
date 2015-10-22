@@ -57,6 +57,17 @@ h6 {
     font-weight: 700;
 }
 
+.page-contents{
+    position: relative;
+    padding: 18%;
+    padding-top: 130px;
+    padding-bottom: 30px;
+}
+
+.navbar-page {
+    background-color: #222;
+}
+
 .img-centered {
     width:auto;
     height:auto;
@@ -69,7 +80,7 @@ h6 {
     text-align: center;
 }
 
-.img-modals {
+.img-page {
     width: 180px;
 }
 
@@ -236,7 +247,7 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default .nav li a {
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-weight: 400;
+    font-weight: 900;
     letter-spacing: 1px;
     color: #fff;
 }
@@ -244,7 +255,7 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default .nav li a:hover,
 .navbar-default .nav li a:focus {
     outline: 0;
-    color: #{{ site.color.primary }};
+    color: #{{ site.color.secondary }};
 }
 
 .navbar-default .navbar-nav>.active>a {
@@ -294,7 +305,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url(../img/header/frame1.png);
+    background-image: url(img/header/frame1.png);
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -666,7 +677,6 @@ section h3.section-subheading {
 #contact {
     padding-bottom: 0px;
     padding-top: 50px;
-
 }
 
 .team-member {

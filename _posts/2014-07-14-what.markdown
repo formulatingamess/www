@@ -1,14 +1,11 @@
 ---
 title: What does stakeholders' management mean?
 layout: default
-modal-id: 3
 date: 2014-07-14
 img: what.png
 thumbnail: what.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: what.markdown
-
+category: content
+description: The science and art of guiding the evolution of a complex system.
+page: what
 ---
