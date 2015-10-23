@@ -84,8 +84,12 @@ h6 {
     text-align: center;
 }
 
-.img-page {
-    width: 180px;
+.img-questions {
+    width: 15vw;
+}
+
+.img-services {
+    width: 30vw;
 }
 
 .img-gbi {
