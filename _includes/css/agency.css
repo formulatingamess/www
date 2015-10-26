@@ -107,7 +107,6 @@ h6 {
     height:100px;
 }
 
-
 .bg-light-gray {
     background-color: #f7f7f7;
 }
@@ -115,6 +114,16 @@ h6 {
 .bg-darkest-gray {
     background-color: #222;
 }
+
+#services .service-caption {
+    margin: 0 auto;
+    padding: 25px;
+    max-width: 400px;
+    text-align: center;
+    background-color: white;
+    font-style: italic;
+}
+
 
 .btn-primary {
     border-color: #{{ site.color.primary }};
