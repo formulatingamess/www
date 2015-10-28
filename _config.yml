@@ -1,9 +1,9 @@
-url: https://vveitas.github.io
-baseurl: /formulatingamess
+url: https://formulatingamess.github.io
+baseurl: /www
 
 # Site settings
 title: formulatingamess.eu
-email: info@formulatingamess.eu
+email: admin@formulatingamess.eu
 description: ""
 
 # Color settings (hex-codes without the leading hash-tag)
