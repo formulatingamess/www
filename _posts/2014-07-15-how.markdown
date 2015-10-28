@@ -1,0 +1,11 @@
+---
+title: How to systemically manage stakeholders?
+layout: default
+date: 2014-07-13
+img: how.png
+thumbnail: how.png
+alt: image-alt
+category: content
+description: By combining complexity science with strategic management.
+page: how
+---
