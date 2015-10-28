@@ -5,7 +5,7 @@
  */
 
 body {
-    width: 100%;
+    width: 100%; 
     height: 100%;
     margin: 0px;
     padding: 0px;
@@ -108,11 +108,8 @@ h6 {
 }
 
 #subscription-form{
-    position: relative;
-    top: 50%;
-    left: 50%;
-    margin-top: -20px;
-    margin-left: -210px;
+    width: 450px;
+    margin: 0 auto;
 }
 
 .bg-light-gray {
@@ -345,7 +342,7 @@ header .intro-text {
 }
 
 header .intro-text .intro-lead-in {
-    margin-bottom: 25px;
+    margin-bottom: 100px;
     font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 22px;
     font-style: italic;
@@ -353,12 +350,20 @@ header .intro-text .intro-lead-in {
 }
 
 header .intro-text .intro-heading {
-    margin-bottom: 25px;
+    margin-bottom: 15px;
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 50px;
     font-weight: 700;
     line-height: 50px;
+}
+
+header .intro-text .intro-services {
+        margin-bottom: 15px;
+        text-transform: uppercase;
+        font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+        font-size: 25px;
+        font-weight: 300;
 }
 
 @media(min-width:768px) {
@@ -368,7 +373,7 @@ header .intro-text .intro-heading {
     }
 
     header .intro-text .intro-lead-in {
-        margin-bottom: 25px;
+        margin-bottom: 100px;
         font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
         font-size: 40px;
         font-style: italic;
@@ -376,17 +381,26 @@ header .intro-text .intro-heading {
     }
 
     header .intro-text .intro-heading {
-        margin-bottom: 50px;
+        margin-bottom: 15px;
         text-transform: uppercase;
         font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
         font-size: 75px;
         font-weight: 700;
         line-height: 75px;
     }
+
+    header .intro-text .intro-services {
+        margin-bottom: 15px;
+        text-transform: uppercase;
+        font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+        font-size: 25px;
+        font-weight: 300;
+    }
+
 }
 
 section {
-    padding: 100px 0;
+    padding: 80px 0;
 }
 
 section h2.section-heading {
