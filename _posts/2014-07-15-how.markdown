@@ -1,5 +1,5 @@
 ---
-title: How to systemically manage stakeholders?
+title: How to manage multiple stakeholders?
 layout: default
 date: 2014-07-13
 img: how.png

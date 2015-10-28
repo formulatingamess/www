@@ -1,5 +1,5 @@
 ---
-title: What does stakeholders' management mean?
+title: What does multi-stakeholder management mean?
 layout: default
 date: 2014-07-14
 img: what.png

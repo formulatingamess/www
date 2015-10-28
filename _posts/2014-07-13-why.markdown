@@ -1,11 +1,11 @@
 ---
-title: Why do we need stakeholders' management?
+title: Why multi-stakeholder management?
 layout: default
 date: 2014-07-15
 img: why.png
 thumbnail: why.png
 alt: image-alt
 category: content
-description: Because of the complexity of the networked world.
+description: Because of increasing complexity of the networked world.
 page: why
 ---

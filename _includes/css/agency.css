@@ -22,6 +22,12 @@ body {
     color: #{{ site.color.primary }};
 }
 
+li p {
+    margin-top: 10px;
+    margin-bottom: 0;
+
+}
+
 p {
     font-size: 16px;
     line-height: 1.75;
@@ -85,7 +91,7 @@ h6 {
 }
 
 .img-questions {
-    width: 15vw;
+    width: 20vw;
 }
 
 .img-services {
