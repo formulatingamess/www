@@ -1,0 +1,13 @@
+---
+title: Why is the fresh look to stakeholder's management needed?
+img: why.png
+layout: page
+---
+
+Today's accelerating networked world is getting increasingly dynamic and difficult to predict. New technologies, new professions, new opportunities, new challenges -- *new unknowns* -- seem to fall on us before we are able to figure out how to make sense of the current ones. Traditional strategic planning and management approaches are failing. The sensible strategic planning horizon has shrinked from years to months and is still decreasing, rendering planing both ineffective and inefficient. Plans become obsolete in no time. The traditional cycle of strategic and project management -- *plan* \\(\rightarrow\\) *execute* \\(\rightarrow\\) *analyze* \\(\rightarrow\\) *correct* \\(\rightarrow\\) *re-plan* needs to make a full cycle at breakneck speed in order to provide any use. Actually, uncertainty, unpredictability and complexity become the major characteristics of our social, economic and business governance.
+
+The most important implication of this trend is that no single social actor -- company, institution, organization or even government -- can single-handedly exercise a significant control of its own environment. Environment here means an ecology of other companies, institutions, organizations and individuals, related via similar, competing or otherwise intersected interests. Most of the current stakeholder's management techniques were developed for ensuring efficient execution of strategic plans with the consideration of more or less stable network of stakeholders. In today's situation of accelerating complexity, these basic premises are no longer valid. Strategic plans do not provide clear directions, while the network of stakeholders cannot be considered as stable any more. 
+
+Naturally, even a strategic direction or policy of any actor in a complex environment has to take into account strategic directions and policies of other actors. Therefore, stakeholders' management becomes the single most important factor for success in today's unpredictable environment. This is especially true for organizations, institutions or programmes, which are intrinsically related to managing diverse interests, such as industry associations, networks, international organizations or governing bodies.
+
+See <a href="{{ site.baseurl}}/content/what">what the art and the science of formulating a mess is all about.</a>
