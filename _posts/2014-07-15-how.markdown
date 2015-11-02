@@ -6,6 +6,6 @@ img: how.png
 thumbnail: how.png
 alt: image-alt
 category: content
-description: By combining complexity science with strategic management.
+description: By applying complexity science to strategic management.
 page: how
 ---

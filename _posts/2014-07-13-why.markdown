@@ -6,6 +6,6 @@ img: why.png
 thumbnail: why.png
 alt: image-alt
 category: content
-description: Because of increasing complexity of the networked world.
+description: Because of the increasing complexity of the networked world.
 page: why
 ---

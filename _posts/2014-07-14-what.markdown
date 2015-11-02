@@ -6,6 +6,6 @@ img: what.png
 thumbnail: what.png
 alt: image-alt
 category: content
-description: Guiding the evolution of <br/> a complex system.
+description: Guiding the evolution of a complex network of human organizations.
 page: what
 ---
