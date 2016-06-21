@@ -67,6 +67,18 @@ h6 {
     font-weight: 700;
 }
 
+.service-title {
+    font-weight: 600;
+    font-style: bold;
+    font-size: 200%;
+}
+
+.service-link a:link {color: black;text-decoration:none;}
+.service-link a:hover {color: black;text-decoration:none;}
+.service-link a:focus {color: black;text-decoration:none;}
+.service-link a:active {color: black;text-decoration:none;}
+.service-link a:visited {color: black;text-decoration:none;}
+
 .page-contents{
     position: relative;
     padding: 18%;
