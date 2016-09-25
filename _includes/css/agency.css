@@ -5,7 +5,7 @@
  */
 
 body {
-    width: 100%; 
+    width: 100%;
     height: 100%;
     margin: 0px;
     padding: 0px;
@@ -382,6 +382,10 @@ header .intro-text {
     padding-bottom: 50px;
 }
 
+.contact-text {
+  margin-bottom: 10px;
+}
+
 header .intro-text .intro-lead-in {
     margin-bottom: 100px;
     font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
@@ -451,12 +455,14 @@ section h2.section-heading {
 }
 
 section h3.section-subheading {
-    margin-bottom: 75px;
+    margin-bottom: 10px;
     text-transform: none;
     font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 16px;
     font-style: italic;
     font-weight: 400;
+    color: white;
+    line-height: 150%;
 }
 
 @media(min-width:768px) {
@@ -755,8 +761,8 @@ section h3.section-subheading {
 }
 
 #contact {
-    padding-bottom: 0px;
-    padding-top: 50px;
+    padding-bottom: 20px;
+    padding-top: 20px;
 }
 
 .team-member {
@@ -992,4 +998,3 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #{{ site.color.primary }};
 }
-
