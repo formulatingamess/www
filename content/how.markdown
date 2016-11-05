@@ -3,7 +3,7 @@ title: How to systematically manage multiple stakeholders?
 layout: page
 ---
 
-As is often the case, the science of formulating a mess is rather a **toolbox** than a single recipe. The art of it lies in **finding the right combination of tools and techniques** for applying the <a href="{{ site.baseurl}}/content/what">conceptual approach</a>. Therefore the concrete question "how to do it?" should be addressed in a context of case studies and examples. This is precisely why we are organizing <a href="{{ site.baseurl}}#infosessions">free info sessions</a> where specific cases will be addressed in a hands-on manner.
+As is often the case, the science of formulating a mess is rather a **toolbox** than a single recipe. The art of it lies in **finding the right combination of tools and techniques** for applying the <a href="{{ site.baseurl}}/content/what">conceptual approach</a>. Therefore the concrete question "how to do it?" should be addressed in a context of case studies and examples. This is precisely why we are organize info sessions where specific cases are addressed in a hands-on manner.
 
 Here are some of the tools and tricks which have their place in the toolbox:
 
